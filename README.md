@@ -18,3 +18,5 @@
 ![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+### Statistic 
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=demurre&theme=radical&layout=compact" />
